@@ -1,3 +1,0 @@
-telethon
-flask
-python-dotenv

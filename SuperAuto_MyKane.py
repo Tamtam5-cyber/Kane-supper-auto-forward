@@ -16,9 +16,9 @@ logging.basicConfig(filename='bot.log', level=logging.INFO, format='%(asctime)s 
 logger = logging.getLogger(__name__)
 
 # Thông tin bot
-BOT_TOKEN = "7695124221:AAGhrm4zaIeMwtipSPqa_44Pq4gw9ZF4668"  # Token từ BotFather
-API_ID = "24090485"  # API ID từ my.telegram.org
-API_HASH = "b056e6499bc0d4a81ab375773ac1170c"  # API Hash từ my.telegram.org
+BOT_TOKEN = "7695124221:AAGhrm4zaIeMwtipSPqa_44Pq4gw9ZF4668"  # Token từ KaneSuperAuto_Bot
+API_ID = "24090485"  # API ID kane_ai
+API_HASH = "b056e6499bc0d4a81ab375773ac1170c"  # API Hash 
 ADMIN_IDS = [123456789]  # Thay bằng danh sách ID của admin
 
 # Lưu trữ dữ liệu
